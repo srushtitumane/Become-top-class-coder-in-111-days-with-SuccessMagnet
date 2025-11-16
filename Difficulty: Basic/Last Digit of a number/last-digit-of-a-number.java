@@ -1,11 +1,8 @@
-import java.util.*;
 class Solution {
-    public static void utility(int n) {
-
-        // just complete below statement
-        int ans =Math.abs(n%10);
-
-            // below statement print the result
-            System.out.println(ans);
+    public int lastDigit(int n) {
+        // Code here
+        int no;
+        no=n%10;
+        return Math.abs(no);
     }
 }

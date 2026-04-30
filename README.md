@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0027-remove-element) |
+| [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1004-max-consecutive-ones-iii) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |

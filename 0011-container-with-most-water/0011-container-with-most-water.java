@@ -8,10 +8,11 @@ class Solution {
             max_water=Math.max(current_water,max_water);
             if(height[i]<height[j]){
                 i++;
-            }
-            else{
+            }else{
                 j--;
+
             }
+            
         }
         return max_water;
         

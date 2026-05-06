@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1695-maximum-erasure-value) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Linked List
 |  |
 | ------- |

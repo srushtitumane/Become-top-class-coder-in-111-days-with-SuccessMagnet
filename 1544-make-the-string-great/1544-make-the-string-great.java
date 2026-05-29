@@ -8,7 +8,8 @@ class Solution {
             char ic = s.charAt(i);
 
             if (!stack.isEmpty() &&
-                Math.abs(stack.peek() - ic) == 32) {
+                Character.toLowerCase(ic) == Character.toLowerCase(stack.peek())
+                && ic != stack.peek()) {
 
                 stack.pop();
 

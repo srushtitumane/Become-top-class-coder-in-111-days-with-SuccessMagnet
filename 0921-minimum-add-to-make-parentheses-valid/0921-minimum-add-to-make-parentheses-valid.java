@@ -1,16 +1,16 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Stack<Character> stack =new Stack<>();
+        StringBuilder sb=new StringBuilder();
         for(int i=0;i<s.length();i++){
             char ic=s.charAt(i);
-            if(!stack.isEmpty() && (stack.peek()=='(' && ic==')')){
-                stack.pop();
+            if(sb.length()>0 && (sb.charAt(sb.length()-1)=='(' && ic==')')){
+                sb.deleteCharAt(sb.length()-1);
             }
             else{
-                stack.push(ic);
+                sb.append(ic);
             }
         }
-        return stack.size();
+        return sb.length();
         
     }
 }

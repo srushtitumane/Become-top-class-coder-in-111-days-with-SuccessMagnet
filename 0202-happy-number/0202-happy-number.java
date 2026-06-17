@@ -1,6 +1,6 @@
 class Solution {
 
-    private int getNext(int n) {
+    int getNext(int n) {
 
         int sum = 0;
 

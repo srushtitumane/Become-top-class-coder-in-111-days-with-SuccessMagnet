@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0029-divide-two-integers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0258-add-digits) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0046-permutations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->

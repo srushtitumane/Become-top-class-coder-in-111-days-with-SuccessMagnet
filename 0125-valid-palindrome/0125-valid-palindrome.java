@@ -13,15 +13,12 @@ class Solution {
                 j--;
                 continue;
             }
-            if(ic!=jc){
+            if(ic!=jc)
                 return false;
-            }
             i++;
-            j--;
-
-        }return true;
-        
-
+            j--;  
+        }
+        return true;
         
     }
 }

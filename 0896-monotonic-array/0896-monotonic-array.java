@@ -1,0 +1,20 @@
+class Solution {
+    public boolean isMonotonic(int[] nums) {
+
+        boolean incre = true;
+        boolean decre = true;
+
+        for(int i = 0; i < nums.length - 1; i++) {
+
+            if(nums[i] < nums[i + 1]) {
+                decre = false;
+            }
+
+            if(nums[i] > nums[i + 1]) {
+                incre = false;
+            }
+        }
+
+        return incre || decre;
+    }
+}

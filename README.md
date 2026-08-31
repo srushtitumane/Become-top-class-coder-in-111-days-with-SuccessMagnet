@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0680-valid-palindrome-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0424-longest-repeating-character-replacement) |

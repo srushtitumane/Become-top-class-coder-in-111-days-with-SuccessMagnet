@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0502-ipo) |
 | [0680-valid-palindrome-ii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0680-valid-palindrome-ii) |
+| [0763-partition-labels](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0763-partition-labels) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0904-fruit-into-baskets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1695-maximum-erasure-value) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0856-score-of-parentheses) |

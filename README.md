@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2540-minimum-common-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2540-minimum-common-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2540-minimum-common-value](https://github.com/srushtitumane/Become-top-class-coder-in-111-days-with-SuccessMagnet/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |

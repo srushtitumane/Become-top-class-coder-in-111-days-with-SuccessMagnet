@@ -6,7 +6,7 @@ class Solution {
         int res = 0;
 
         while (low <= high) {
-            int mid = low + (high - low) / 2;
+            int mid = (high + low) / 2;
 
             if (mid <= x / mid) {
                 res = mid;
